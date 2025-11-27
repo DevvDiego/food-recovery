@@ -39,13 +39,18 @@
 
     <div>
 
-      <h1 class="text-5xl font-bold">Box Office News!</h1>
-      <p class="py-6 pr-6">
-        Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-        quasi. In deleniti eaque aut repudiandae et a id nisi.
-      </p>
+        <h1 class="text-5xl font-bold">¿Por que hacemos esto?</h1>
+        <p class="py-6 pr-6">
+            Diario muchos negocios de comida se ven obligados a tirar a la basura
+            los alimentos que no consiguieron venderse durante el dia. ¿Por que no mejor
+            evitar el desperdicio y ahorrar un poco?
+        </p>
 
-      <!-- <button class="btn btn-primary">Get Started</button> -->
+        <div class="flex gap-4">
+            <button class="btn btn-primary">Registrarse</button>
+            <button class="btn btn-outline btn-primary">Si tienes un negocio: ¡Unete!</button>
+        </div>
+        
 
     </div>
 
