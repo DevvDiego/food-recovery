@@ -16,7 +16,9 @@ const config = {
 			strict: true
 		})
 
-		base:"/food-recovery"
+		paths: {
+			base: "/food-recovery"
+		}
 	}
 };
 
