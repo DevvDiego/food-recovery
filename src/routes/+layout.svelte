@@ -17,16 +17,22 @@
 
 	<div class="flex-none">
 	
-		<ul class="menu menu-horizontal px-1">
-			<li><a>Link</a></li>
+		<ul class="menu menu-horizontal px-1 text-lg">
 			<li>	
 				<details>
 					<summary>Menu</summary>
 					<ul class="bg-base-100 rounded-t-none p-2">
-						<li><a>Link 1</a></li>
-						<li><a>Link 2</a></li>
-					</ul>
-				</details>
+                <li>
+                    <a href="register">Registro usuarios</a>
+                </li>
+                <li>
+                    <a href="register">Registro empresas</a>
+                </li>
+                <li>
+                    <a href="alliances">Alianzas</a>
+                </li>
+                    </ul>
+                    </details>
 			</li>
 		</ul>
 	
