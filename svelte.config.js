@@ -15,6 +15,8 @@ const config = {
 			precompress: false,
 			strict: true
 		})
+
+		base:"/food-recovery"
 	}
 };
 
