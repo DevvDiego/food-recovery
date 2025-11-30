@@ -10,33 +10,35 @@
 </svelte:head>
 
 
-<div class="navbar bg-base-100 shadow-sm">
-	<div class="flex-1">
+<div class="navbar flex justify-between px-5 bg-base-100 shadow-sm">
+
+	<div>
 		<a class="btn btn-ghost text-xl">Empresa</a>
 	</div>
 
-	<div class="flex-none">
+	<div class="mr-5">
 	
-		<ul class="menu menu-horizontal px-1 text-lg">
+		<ul class="menu menu-horizontal text-lg">
 			<li>	
 				<details>
 					<summary>Menu</summary>
 					<ul class="bg-base-100 rounded-t-none p-2">
-                <li>
-                    <a href="register">Registro usuarios</a>
-                </li>
-                <li>
-                    <a href="register">Registro empresas</a>
-                </li>
-                <li>
-                    <a href="alliances">Alianzas</a>
-                </li>
+                        <li>
+                            <a href="register">Cuenta</a>
+                        </li>
+                        <li>
+                            <a href="register">Colaborar</a>
+                        </li>
+                        <li>
+                            <a href="alliances">Alianzas</a>
+                        </li>
                     </ul>
-                    </details>
+                </details>
 			</li>
 		</ul>
 	
 	</div>
+
 </div>
 
 
