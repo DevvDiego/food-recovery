@@ -1,3 +1,7 @@
+<script>
+    import { base } from "$app/paths";
+
+</script>
 <div class="hero bg-base-200 min-h-screen md:px-10">
     <div class="hero-content flex-col lg:flex-row-reverse">
     
@@ -16,8 +20,12 @@
             </p>
 
             <div class="flex gap-4">
-                <button class="btn btn-primary">Registrarse</button>
-                <button class="btn btn-outline btn-primary">Si tienes un negocio: ¡Unete!</button>
+                <button class="btn btn-primary">
+                    <a href="{base}/register">Registrarse</a>
+                </button>
+                <button class="btn btn-outline btn-primary">
+                    <a href="{base}/register">Si tienes un negocio: ¡Unete!</a>
+                </button>
             </div>
             
 
