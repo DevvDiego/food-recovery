@@ -13,7 +13,7 @@
 <div class="navbar flex justify-between px-5 bg-base-100 shadow-sm">
 
 	<div>
-		<a class="btn btn-ghost text-xl">Empresa</a>
+		<a class="btn btn-ghost text-xl" href="/">Empresa</a>
 	</div>
 
 	<div class="mr-5">
